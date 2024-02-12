@@ -2,7 +2,6 @@ package com.meryem.mapper;
 
 import com.meryem.dto.request.RandevuSaveRequestDto;
 import com.meryem.entity.Randevu;
-import com.meryem.service.RandevuService;
 import org.mapstruct.Mapper;
 import org.mapstruct.ReportingPolicy;
 import org.mapstruct.factory.Mappers;

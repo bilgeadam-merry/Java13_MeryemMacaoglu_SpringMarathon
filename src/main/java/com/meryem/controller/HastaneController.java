@@ -21,8 +21,6 @@ import static com.meryem.constants.RestApiUrls.*;
 @RequestMapping(HASTANE)
 public class HastaneController {
     private final DoktorService doktorService;
-    private final RandevuService randevuService;
-    private final HastaService hastaService;
 
 
     @PostMapping(DOKTOR_SAVE)

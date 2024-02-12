@@ -7,9 +7,7 @@ import com.meryem.entity.Randevu;
 import com.meryem.exception.ErrorType;
 import com.meryem.exception.SpringMarathonAppException;
 import com.meryem.mapper.RandevuMapper;
-import com.meryem.repository.IHastaRepository;
 import com.meryem.repository.IRandevuRepository;
-import com.meryem.entity.enums.EStatus;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
